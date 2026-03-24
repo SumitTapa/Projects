@@ -70,7 +70,7 @@ Install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ---
-
+The dataset can be downloaded from: 'https://www.kaggle.com/jsphyg/weather-dataset-rattle-package'
 
 ---
 
